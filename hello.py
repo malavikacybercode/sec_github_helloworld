@@ -5,3 +5,6 @@ print('added commit message!!!')
 def add(a,b):
     print('addition')
     return a+b
+
+def HiTeller():
+    return f" Malu is awesome"
